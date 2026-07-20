@@ -1,0 +1,28 @@
+{
+  "manifest_version": 3,
+  "name": "Sage Dark Theme",
+  "version": "1.0.0",
+  "description": "A soothing, dusty dark sage green color scheme designed for programmers and long browsing sessions.",
+  "theme": {
+    "colors": {
+      "frame": [34, 42, 38],
+      "frame_inactive": [34, 42, 38],
+      "frame_incognito": [34, 42, 38],
+      "frame_incognito_inactive": [34, 42, 38],
+      "background_tab": [34, 42, 38],
+      "background_tab_inactive": [34, 42, 38],
+      "background_tab_incognito": [34, 42, 38],
+      "background_tab_incognito_inactive": [34, 42, 38],
+      "tab_text": [103, 122, 112],
+      "tab_background_text": [103, 122, 112],
+      
+      "toolbar": [45, 56, 51],
+      "toolbar_button_icon": [210, 222, 215],
+      "toolbar_text": [210, 222, 215],
+      "bookmark_text": [210, 222, 215],
+      
+      "ntp_background": [45, 56, 51],
+      "ntp_text": [210, 222, 215]
+    }
+  }
+}
