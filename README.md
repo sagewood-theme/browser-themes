@@ -10,3 +10,11 @@
 
 ## Firefox
 Sagewood for Firefox is on Firefox addons at https://addons.mozilla.org/en-US/firefox/addon/sagewood-official-theme/
+
+## NightTab (New Tab page for Chrome and Firefox)
+1. Download the sagewood.json
+2. Download NightTab (if not already installed)
+3. Open settings
+4. Click Data, then Restore
+5. Click import from file and select sagewood.json
+6. Enjoy
