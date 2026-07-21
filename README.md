@@ -9,4 +9,4 @@
 6. Enjoy your new theme
 
 ## Firefox
-Sagewood for Firefox will come on Mozilla Addons soon
+Sagewood for Firefox is on Firefox addons at https://addons.mozilla.org/en-US/firefox/addon/sagewood-official-theme/
